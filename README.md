@@ -12,3 +12,5 @@ Using Latent Dirichlet Allocation (LDA), the project groups news posts into topi
 
 3. Does sentiment or text length significantly affect engagement across platforms?
 Sentiment analysis categorizes posts into Positive, Neutral, and Negative sentiment classes to examine if sentiment affects view counts. Text length statistics were also analyzed to investigate whether content length impacts engagement differently on Facebook and Instagram.
+
+Each task is processed in order in the Jupyter notebook (Codes and Results.ipynb).
